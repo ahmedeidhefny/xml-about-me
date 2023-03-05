@@ -4,13 +4,13 @@
  <img src='https://user-images.githubusercontent.com/45559398/172485205-6fa4e496-4661-49ff-90f1-7bacf2ea529a.gif' width='300'>
 </p>
 
-Hi everyone. I'm Ahmed Eid a simple android developer. 🧍‍
+Hi everyone. I'm Ahmed Eid a mobile developer. 🧍‍
 
-This is a sample project. 😜
+This is a sample kotlin android project. 😜
 
 Clean MVVM has become one of the standard architectures around which large Android projects are developed.
 
-If you want to see the compose version of this project, refer to this link --->  [Click here](https://github.com/javacl/compose-about-me)
+<!-- If you want to see the compose version of this project, refer to this link --->  [Click here](https://github.com/javacl/compose-about-me) -->
 
 ### The basic flow looks like this 😎
 
