@@ -5,11 +5,11 @@
     <string name="error_general">A problem occurred!</string>
     <string name="error_connection">Connect to Internet</string>
 
-    <string name="link_github">https://github.com/javacl</string>
-    <string name="link_gitlab">https://gitlab.com/javacl</string>
-    <string name="link_linkedin">https://www.linkedin.com/in/javacl</string>
-    <string name="link_telegram">https://telegram.me/javacl_sadeghi</string>
-    <string name="link_instagram">http://instagram.com/_u/javaclsadeghi</string>
+    <string name="link_github">https://github.com/ahmedeidhefny</string>
+    <string name="link_gitlab">https://gitlab.com/ahmedeidhefny</string>
+    <string name="link_linkedin">https://www.linkedin.com/in/ahmed-eid-4ba7a8180/</string>
+    <string name="link_telegram">https://telegram.me/</string>
+    <string name="link_instagram">http://instagram.com/_u/</string>
 
     <string name="msg_empty_not_allow">This item cannot be empty!</string>
     <string name="msg_retry">Retry</string>
@@ -17,7 +17,7 @@
     <string name="label_articles">Articles</string>
     <string name="label_user_profile">Profile</string>
     <string name="label_article">Article</string>
-    <string name="label_full_name">Javad Sadeghi</string>
+    <string name="label_full_name">Ahmed Eid</string>
     <string name="label_github">Github</string>
     <string name="label_gitlab">Gitlab</string>
     <string name="label_linkedin">Linkedin</string>
@@ -25,5 +25,5 @@
     <string name="label_instagram">Instagram</string>
     <string name="label_about_me">About Me</string>
 
-    <string name="txt_about_me">Hello.\n\nI,m Javad Sadeghi.\n\nAndroid Developer &amp; Guitar Lover\n\nMy Birthday : 1996 august 22\n\nLive in Mashhad</string>
+    <string name="txt_about_me">Hello.\n\nI,m Ahmed Eid.\n\nAndroid &amp; Flutter Developer\n\nMy Birthday : 1996 august 10\n\nLive in Cairo</string>
 </resources>
